@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Nice to meet you. I'm Rasmus J. Something to know about me
+
+  - Currently working as a Sysadmin
+  - Proud member of both the Danish Army and Hjemmeværn
+  - Currently studing for a diplomuddannelse in IT-Sikkerhed
+
 <!--
 **susaka/Susaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
